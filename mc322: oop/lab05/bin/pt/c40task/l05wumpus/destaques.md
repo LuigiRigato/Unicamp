@@ -1,0 +1,5 @@
+## Classe abstrata "Componentes":
+Foi criada uma subclasse da classe "Componentes" para cada um dos componentes envolvidos no jogo ("Brisa", "Wumpus", etc). Cada um dos componentes, em sua própria classe, carrega uma informação ("info"), que será utilizada durante a impressão do tabuleiro do jogo. O componente "Heroi" faz o controle do uso da flecha, é responsável pelos próprios movimentos e pela batalha com o Wumpus, enquanto "Wumpus" e "Buraco" são responsáveis por posicionarem os fedores e os buracos na caverna, respectivamente.
+
+## Classe "Salas":
+A classe salas possui um vetor dos componentes que estão na sala. Foi criada um método "getComponente", que recebe o caractere respectivo ao componente e o retorna, mas, caso o componente desejado não seja encontrado na sala, retorna null. Há, também, os métodos "addComponente" e "delComponente", que guarda ou remove o componente recebido de sua respectiva posição no vetor, respectivamente.

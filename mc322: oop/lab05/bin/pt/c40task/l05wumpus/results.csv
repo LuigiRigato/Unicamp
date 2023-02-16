@@ -1,0 +1,76 @@
+#P--
+----
+----
+----
+score: -15
+status: P
+=====
+##P-
+----
+----
+----
+score: -30
+status: P
+=====
+##b-
+--O-
+----
+----
+score: -45
+status: P
+=====
+##b-
+--P-
+----
+----
+score: -45
+status: P
+=====
+##b-
+-Pb-
+----
+----
+score: -60
+status: P
+=====
+##b-
+-Pb-
+----
+----
+score: -160
+status: P
+=====
+##b-
+-#b-
+-P--
+----
+score: 325
+status: P
+=====
+##b-
+-Pb-
+-b--
+----
+score: 310
+status: P
+=====
+#Pb-
+-#b-
+-b--
+----
+score: 295
+status: P
+=====
+P#b-
+-#b-
+-b--
+----
+score: 1280
+status: W
+=====
+P#b-
+-#b-
+-b--
+----
+score: 1280
+status: W
