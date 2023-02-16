@@ -1,0 +1,8 @@
+
+bin/test-40.x: file format elf32-littleriscv
+
+SYMBOL TABLE:
+00011104 l .text 00000000 end
+000110c8 l .text 00000000 loop
+0001111c l .text 00000000 result
+000110b4 g .text 00000000 _start
